@@ -6,7 +6,7 @@ class ComponentTool < Formula
   homepage ""
   url "https://raw.githubusercontent.com/gaborbottyan/component-releases/master/comps.1.0.4.tar.gz"
   sha256 "8b0b21f828abe1d84be1bd7fcd7c88fa515c2eba884aea27aa14a64c43a107f4"
-  version "1.0.4"
+  version "2.1"
   # depends_on "cmake" => :build
 
   depends_on "xcodegen" => :install
