@@ -5,7 +5,7 @@ class ComponentTool < Formula
   desc ""
   homepage ""
   url "https://raw.githubusercontent.com/gaborbottyan/component-releases/master/comps.1.0.5.tar.gz"
-  sha256 "8b0b21f828abe1d84be1bd7fcd7c88fa515c2eba884aea27aa14a64c43a107f4"
+  sha256 "9e8276dbfaa1a355ddacce40e0df498fd4daea0c4c5aa181c4344d18f1698041"
   version "2.2"
   # depends_on "cmake" => :build
 
