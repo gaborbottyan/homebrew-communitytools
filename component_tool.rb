@@ -4,9 +4,9 @@
 class ComponentTool < Formula
   desc ""
   homepage ""
-  url "https://raw.githubusercontent.com/gaborbottyan/component-releases/master/comps.1.0.5.tar.gz"
-  sha256 "9e8276dbfaa1a355ddacce40e0df498fd4daea0c4c5aa181c4344d18f1698041"
-  version "2.2"
+  url "https://raw.githubusercontent.com/gaborbottyan/component-releases/master/comps.1.0.6.tar.gz"
+  sha256 "45691a0af3c4cc51017f749e0fb8572dc0778cf5068f3100acef2d351bce712b"
+  version "2.3"
   # depends_on "cmake" => :build
 
   depends_on "xcodegen" => :install
